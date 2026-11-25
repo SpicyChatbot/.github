@@ -26,7 +26,7 @@ Side-by-side look at platforms offering uncensored roleplay, memory features, an
 Open the site, choose or create a character, send a few messages to gauge style, then decide whether to continue in that thread. Free limits appear quickly for most users.
 
 <p align="center">
-  <a href="https://chubby-gf.com/spicychat"><img src="./chat_open.jpg" width="105" alt="Compare"></a>
+  <a href="https://chubby-gf.com/spicychat"><img src="./chat_open.jpg" width="195" alt="Compare"></a>
 </p>
 
 ---
@@ -59,9 +59,9 @@ Users seeking uncensored roleplay with memory and optional voice, comfortable te
 ---
 
 <p align="center">
-  <a href="https://chubby-gf.com/spicychat"><img src="./chat_plans.jpg" width="105" alt="Plans"></a>
+  <a href="https://chubby-gf.com/spicychat"><img src="./chat_plans.jpg" width="195" alt="Plans"></a>
   &nbsp;
-  <a href="https://chubby-gf.com/spicychat"><img src="./chat_start.jpg" width="105" alt="Start"></a>
+  <a href="https://chubby-gf.com/spicychat"><img src="./chat_start.jpg" width="195" alt="Start"></a>
 </p>
 
 ---
